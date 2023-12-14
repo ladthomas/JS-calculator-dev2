@@ -1,4 +1,4 @@
-# [CALCULATRICE]
+# CALCULATRICE
 
 
 
